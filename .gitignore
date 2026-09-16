@@ -1,0 +1,19 @@
+# Local binaries and downloads
+node/
+node.tar.gz
+apache-maven-3.9.6/
+
+# Node dependencies and build output
+**/node_modules/
+**/dist/
+**/build/
+
+# Maven target directories
+**/target/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.tmp
